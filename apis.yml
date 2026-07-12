@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://catboys.com/api
 common:
+  - type: DomainSecurity
+    url: security/catboy-domain-security.yml
   - type: Website
     url: https://catboys.com/api
   - type: PublicAPIsListing
