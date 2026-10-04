@@ -39,7 +39,6 @@ apis:
   - name: Catboy
     description: "Neko images, funny GIFs & more"
     humanURL: https://catboys.com/api
-    baseURL: https://catboys.com/api
     tags:
       - Anime
     properties:
